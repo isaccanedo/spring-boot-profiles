@@ -1,0 +1,5 @@
+spring:
+  message: Hello Isac Canedo
+
+server:
+  port: 8081
